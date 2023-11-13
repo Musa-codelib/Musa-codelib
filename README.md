@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Musa</h1>
-<h3 align="center">An Ai undergraduate from Pakistan.</h3>
+<h3 align="center">An Ai undergraduate from GIKI/Pakistan.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Musa-codelib](https://github.com/Musa-codelib)
 
