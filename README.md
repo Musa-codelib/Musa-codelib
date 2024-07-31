@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Musa-codelib](https://github.com/Musa-codelib)
 
-- 💬 Ask me about **Computer Vision & Automation.**
+- 💬 Ask me about **Web dev, Graphic design & Computer vision.**
 
 - 📫 How to reach me **mohammad88moses@gmail.com**
 
