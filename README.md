@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-musa-a5a280252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-musa-a5a280252/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/muhammadmoses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/muhammadmoses" height="30" width="40" /></a>
-<a href="https://mkodes-main.vercel.app/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/855e51f7-e3ba-4d56-a6a8-423b31feb20a" alt="https://mkodes-main.vercel.app/" height="30" width="40" /></a>
+<a href="https://mkodes-main.vercel.app/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/855e51f7-e3ba-4d56-a6a8-423b31feb20a" alt="https://mkodes-main.vercel.app/" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
