@@ -20,7 +20,7 @@
 <h3 align="left">Creative Showcase</h3>
 
 - 🎥 **Cinematography, Motion Graphics & 3D Work**  
-  👉 <img src="https://cdn.simpleicons.org/instagram/E4405F" height="17" width="17" style="vertical-align:middle;"/> [Instagram – build-with-musa](https://www.instagram.com/build-with-musa)
+- <img src="https://cdn.simpleicons.org/instagram/E4405F" height="17" width="17" style="vertical-align:middle;"/> [Instagram – build_with_musa](https://www.instagram.com/build_with_musa)
 
 
 <h3 align="left">Languages and Tools</h3>
