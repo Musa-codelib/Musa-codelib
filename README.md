@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-musa-a5a280252/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/muhammadmoses" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
-<a href="https://mkodes-main.vercel.app/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/855e51f7-e3ba-4d56-a6a8-423b31feb20a" alt="portfolio" height="34" width="38" /></a>
+<a href="https://musa-portfolio-chi.vercel.app/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/855e51f7-e3ba-4d56-a6a8-423b31feb20a" alt="portfolio" height="34" width="38" /></a>
 </p>
 
 <h3 align="left">Creative Showcase</h3>
